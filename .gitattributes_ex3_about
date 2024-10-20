@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            background-color: ;
+        }
+        .menu {
+            text-align: center;
+
+        }
+        .menu a{
+            margin: 0 15px;
+            color: black;
+            text-decoration: none;
+        }
+        .image img{
+            align-items: center;
+            width: 500px;
+            margin-top: px;
+            margin-left: 520px;
+        }
+        .image h1{
+            text-align: center;
+        }
+        
+        .text{
+            text-align: ;
+           
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            
+        }
+
+    </style>
+    
+</head>
+<body>
+
+<div class="menu">
+    <a href="home.html">Home</a> |
+    <a href="about.html">About Us</a> |
+    <a href="ourProduct.html">Our Product</a> |
+    <a href="contact.html">Contact</a>
+</div>
+
+<div class="image">
+    <h1>About us</h1>
+    <img src="https://cms-cdn.thesolesupplier.co.uk/2021/11/nikehistory-tss2.jpg.webp" alt="">
+</div>
+
+<div class="text">
+    <p>Nike, Inc. is a global leader in the athletic footwear, apparel, and equipment industry, known for its innovative products and iconic branding. Founded in 1964 and originally named Blue Ribbon Sports, the company rebranded to Nike in 1971, inspired by the Greek goddess of victory. Nike is celebrated for its technological advancements, such as Nike Air cushioning and Dri-FIT fabric, enhancing athletic performance and comfort. With a powerful marketing strategy featuring endorsements from top athletes like Michael Jordan and Serena Williams, Nike has become synonymous with sports culture worldwide. The brand is also committed to sustainability and corporate responsibility, focusing on reducing environmental impact and promoting social initiatives. Overall, Nike’s combination of innovation, strong branding, and dedication to community engagement solidifies its position as a dominant force in the athletic industry.</p>
+   
+</div>
+
+
+</body>
+</html>
