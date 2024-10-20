@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            background-color: ;
+        }
+        .menu {
+            text-align: center;
+
+        }
+        .menu a{
+            margin: 0 15px;
+            color: black;
+            text-decoration: none;
+        }
+        .image img{
+            align-items: center;
+            width: 500px;
+            margin-top: px;
+            margin-left: 520px;
+        }
+        .image h1{
+            text-align: center;
+        }
+        
+        .text{
+            text-align: ;
+           
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            
+        }
+
+    </style>
+    
+</head>
+<body>
+
+<div class="menu">
+    <a href="home.html">Home</a> |
+    <a href="about.html">About Us</a> |
+    <a href="ourProduct.html">Our Product</a> |
+    <a href="contact.html">Contact</a>
+</div>
+
+<div class="image">
+    <h1>Our Product</h1>
+    <img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-240384,resizemode-75,msid-103418354/top-trending-products/lifestyle/best-jordan-sneakers-for-men-ultimate-style-and-performance.jpg" alt="">
+    <img src="https://img.freepik.com/premium-photo/trending-now-section-highlighting-popular-nike-apparel-accessories-red-blue_1036975-155596.jpg" alt="">
+    <img src="https://www.prosoccer.com/cdn/shop/files/Nike2024-25PortugalMen_sStadiumAwayJersey_Front.jpg?v=1712682971" alt="">
+    <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3903931e-af6d-4f21-be1d-0b4d3c50788f/M+NSW+CLUB+HOODIE+PO+BB.png" alt="">
+    <img src="https://img.adsport.cz/data/zbozi/nike/650x550/455832.jfif" alt="">
+</div>
+
+<div class="text">
+   
+   
+</div>
+
+
+</body>
+</html>
