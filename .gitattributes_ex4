@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>CADT Shop</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        td img {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to CADT Shop!</h1>
+    <table>
+        <tr>
+            <th></th>
+            <th>Product Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>In Stock</th>
+        </tr>
+        <tr>
+            <td><img src="https://csharp-book.softuni.org/assets/CSharp-Programming-Basics-Book-Cover.png" width="50px" height="60px" alt="C# Book"></td>
+            <td>C# Book</td>
+            <td>$10</td>
+            <td>5</td>
+            <td>YES</td>
+        </tr>
+        <tr>
+            <td><img src="https://files.oaiusercontent.com/file-Jv3SB8Dol9dzoxw2mxRVqHwk?se=2024-10-18T13%3A41%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Ddb378e81-3a5c-4419-8c06-f54229280126.webp&sig=tZIrHHrmp1AeQplzw4sImKnTFVVDDLIEqa35I4KLWpg%3D" width="50px" height="60px" alt="CADT Polo"></td>
+            <td>CADT Polo</td>
+            <td>$12</td>
+            <td>60</td>
+            <td>YES</td>
+        </tr>
+        <tr>
+            <td><img src="https://www.dateks.lv/images/pic/2400/2400/814/1035.jpg" width="50px" height="60px" alt="CADT Mouse"></td>
+            <td>CADT Mouse</td>
+            <td>$100</td>
+            <td>3</td>
+            <td>NO</td>
+        </tr> 
+    </table>
+</body>
+</html>
